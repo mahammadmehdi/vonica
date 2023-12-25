@@ -1,0 +1,36 @@
+.navigation{
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    align-items: center;
+    
+    .navbar{
+        display:flex ;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
+        
+
+        .leftNavbar{
+.vonica{
+    font-size: 30px;
+}
+        }
+        .mainNavbar{
+.pages{
+    display: flex;
+    gap: 50px;
+    li{
+        font-size: 20px;
+        align-items: baseline;
+    }
+}
+        }
+        .rightNavbar{
+display: flex;
+gap: 20px;
+        }
+    }
+}
